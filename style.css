@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.image{
+    width: 100%;
+}
+.text{
+    text-align: center;
+}
+#taka{
+    display: flex;
+    grid-gap: 50px;
+    margin-left: 30%;
+}
+.border{
+    border: 2px solid red;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.white{
+    box-shadow: 5px 5px wheat 5px 5px wheat;
+}
+.amount{
+    text-align: center;
+    border-bottom: 1px solid gray;
+    margin-left: 320px;
+    margin-right: 200px;
+
+}
+.btn{
+    background-color:indianred ;
+    border: 5px solid indianred;
+    border-radius: 5px;
+    color: aliceblue;
+    margin-left:50%;
+}
+.food{
+    background-color:pink ;
+}
+.shelter{
+    background-color: skyblue;
+}
+.education{
+    background-color: rgb(206, 206, 132);
+}
+.container{
+    display: flex;
+    grid-gap: 15px;
+}
+.container img{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.humble{
+    background-color: black;
+    color: chocolate;
+    text-align: center;
+}
+.form{
+    text-align: center;
+    background-color: pink;
+    height: 100%;
+}
+#donation{
+    margin: 10%;
+}
